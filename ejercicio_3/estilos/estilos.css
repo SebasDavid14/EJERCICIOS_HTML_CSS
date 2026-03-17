@@ -1,0 +1,32 @@
+body{
+background:#8ec1cc;
+margin:0;
+font-family:Georgia;
+}
+
+.barra{
+background:#4b18d6;
+color:white;
+padding:10px;
+}
+
+.etiqueta{
+background:#ffc400;
+color: black;
+padding:5px 12px;
+border-radius:15px;
+font-weight:bold;
+margin-right:10px;
+}
+
+.contenido{
+padding:40px;
+}
+
+h1{
+color:red;
+}
+
+p{
+font-size:20px;
+}
